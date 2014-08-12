@@ -1,4 +1,4 @@
-zumicts.github.io
+apps.zumicts.com
 =================
 
-Zumicts website for open source projects
+Static webite for all my apps.
