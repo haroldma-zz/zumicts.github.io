@@ -1,4 +1,4 @@
-apps.zumicts.com
+zumicts.com
 =================
 
 Static webite for all my apps.
