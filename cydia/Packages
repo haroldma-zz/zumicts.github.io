@@ -1,0 +1,13 @@
+Package: com.zumicts.quizzerup
+Name: QuizzerUp
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome QuizUp bot tweak!
+Maintainer: Zumicts
+Author: Zumicts
+Section: Tweaks
+Version: 2.0-2
+Installed-Size: 20
+Filename: ./debs/com.zumicts.quizzerup_2.0-2_iphoneos-arm.deb
+Size: 3140
+MD5Sum: 6f158dde9fe7deb24ffcd68e6ed6f4b7

@@ -1,0 +1,7 @@
+Origin: The Zumicts Repo
+Label: The Zumicts Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: An awesome dev making awesome tweaks.
