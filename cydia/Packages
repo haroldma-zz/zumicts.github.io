@@ -1,14 +1,14 @@
 Package: com.zumicts.quizzerup
-Version: 2.0-2
+Version: 2.0-3
 Architecture: iphoneos-arm
 Maintainer: Zumicts <harry@zumicts.com>
 Installed-Size: 20
 Depends: mobilesubstrate
-Filename: .//debs/com.zumicts.quizzerup_2.0-2_iphoneos-arm.deb
-Size: 3170
-MD5sum: 1294d40125366b7e374f0e13d6560e01
-SHA1: 95c22ba0ada70805b6222a657f1bb9a224c5c228
-SHA256: 04fa2ee605855851c142ded0014f4ac2abc7780140e992b57e824630ea6eae80
+Filename: .//debs/com.zumicts.quizzerup_2.0-3_iphoneos-arm.deb
+Size: 3428
+MD5sum: ec7aad2391c1a82f40733c3e39b24efc
+SHA1: a2f58101840b8d6b4ba3b6dadba90d8c32c7f727
+SHA256: 722e057fe93faa912fb3d0fdc0bd43d31e6b16327aea86102764f0e99bf0542c
 Section: Tweaks
 Homepage: http://quizzerup.com
 Description: An awesome QuizUp bot tweak!
